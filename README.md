@@ -16,4 +16,5 @@ Mazais projekts, kuru var realizēt pa novembri
 ## Izmantotie avoti
 https://www.youtube.com/watch?v=4vxQGKq0pJ0 
 
+## Programma 
 Programma - https://replit.com/@DP2NPalcevskis/Mazais-projekts?v=1
